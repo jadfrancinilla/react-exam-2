@@ -1,0 +1,20 @@
+.news-item{
+    height: 120px;
+}
+
+.ui.items > div.item.news-item > div.ui.image.news-image{
+    height: 120px;
+    width: 120px;
+    margin-right: 1.5rem;
+}
+
+.news-item .news-image img{
+    max-width: 120px;
+    max-height: 120px;
+    margin: auto;
+}
+
+.items > div.item.news-item > div.content.news-content{
+    padding-left: 0px;
+}
+
